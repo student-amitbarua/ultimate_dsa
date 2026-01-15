@@ -1,3 +1,9 @@
+# Ignore all executable files
 *.exe
-input.txt
+
+# Ignore specific text files
 output.txt
+input.txt
+
+# Ignore VS Code configuration
+.vscode/
